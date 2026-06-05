@@ -2,14 +2,17 @@
 This is a simple led torch with a switch project using kicad. Also this is my first project
 
 
-## 3D View
+## Schematic
 
-![3D View](Images/3d_view.png)
+![Schematic](Images/schematic.png)
+
 
 ## PCB Layout
 
 ![PCB Layout](Images/pcb_layout.png)
 
-## Schematic
+## 3D View
 
-![Schematic](Images/schematic.png)
+![3D View](Images/3d_view.png)
+
+
